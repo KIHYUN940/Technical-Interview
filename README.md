@@ -10,6 +10,7 @@
 
 ## 2. Database
 [NoSQL과 RDBMS 차이](https://kihyunhong.tistory.com/244)  
+[정규화, 역정규화](https://kihyunhong.tistory.com/209)  
 
 ## 3. Network
 [TCP/UDP의 차이점](https://kihyunhong.tistory.com/247)  
