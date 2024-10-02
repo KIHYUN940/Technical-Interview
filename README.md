@@ -8,6 +8,7 @@
 [OOP의 4가지 특징](https://kihyunhong.tistory.com/245)  
 [Java Collection](https://kihyunhong.tistory.com/246)  
 [JDK란?](https://kihyunhong.tistory.com/291)  
+[Gradle이란?](https://kihyunhong.tistory.com/292)  
 
 ## 2. Database
 [NoSQL과 RDBMS 차이](https://kihyunhong.tistory.com/244)  
