@@ -21,4 +21,5 @@
 [OSI 7계층](https://kihyunhong.tistory.com/250)  
 
 ## 4. Spring
-[IoC/DI 개념](https://kihyunhong.tistory.com/295)
+[IoC/DI 개념](https://kihyunhong.tistory.com/295)  
+[AOP 개념](https://kihyunhong.tistory.com/296)  
