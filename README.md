@@ -9,6 +9,7 @@
 [Java Collection](https://kihyunhong.tistory.com/246)  
 [JDK란?](https://kihyunhong.tistory.com/291)  
 [Gradle이란?](https://kihyunhong.tistory.com/292)  
+[자바 형변환(묵시적, 명시적)](https://kihyunhong.tistory.com/307)  
 
 ## 2. Database
 [NoSQL과 RDBMS 차이](https://kihyunhong.tistory.com/244)  
